@@ -8,3 +8,5 @@
 
 [村上村树 - 当我谈跑步时，我谈些什么](https://github.com/Omooo/WeChatReading/blob/master/2019/%E5%BD%93%E6%88%91%E8%B0%88%E8%B7%91%E6%AD%A5%E6%97%B6%EF%BC%8C%E6%88%91%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88.md)
 
+[王小圈 - 如何成为一个有趣的人]()
+
