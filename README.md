@@ -30,9 +30,9 @@
 
 [5. 特立独行的猫 - 当你的才华还撑不起你的梦想时](https://github.com/Omooo/WeChatReading/blob/master/2019/%E5%BD%93%E4%BD%A0%E7%9A%84%E6%89%8D%E5%8D%8E%E8%BF%98%E6%92%91%E4%B8%8D%E8%B5%B7%E4%BD%A0%E7%9A%84%E6%A2%A6%E6%83%B3%E6%97%B6.md)
 
-[6. 景天 - 别在吃苦的年纪选择安逸]
+[6. 景天 - 别在吃苦的年纪选择安逸](https://github.com/Omooo/WeChatReading/blob/master/2019/%E5%88%AB%E5%9C%A8%E5%90%83%E8%8B%A6%E7%9A%84%E5%B9%B4%E7%BA%AA%E9%80%89%E6%8B%A9%E5%AE%89%E9%80%B8.md)
 
-[7. 人性的弱点]
+[7. 人性的弱点](https://github.com/Omooo/WeChatReading/blob/master/2019/%E4%BA%BA%E6%80%A7%E7%9A%84%E5%BC%B1%E7%82%B9.md)
 
 [8. 我讲个笑话，你可别哭啊]
 
@@ -41,3 +41,4 @@
 [10. 我不过低配的人生]
 
 [11. ]
+
