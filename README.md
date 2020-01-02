@@ -38,7 +38,9 @@
 
 [9. 番茄工作法图解]
 
-[10. 我不过低配的人生]
+[10. 我不过低配的人生](https://github.com/Omooo/WeChatReading/blob/master/2019/%E6%88%91%E4%B8%8D%E8%BF%87%E4%BD%8E%E9%85%8D%E7%9A%84%E4%BA%BA%E7%94%9F.md)
 
-[11. ]
+[11. 非暴力沟通](https://github.com/Omooo/WeChatReading/blob/master/2019/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A.md)
+
+### 2020
 
