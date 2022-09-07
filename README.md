@@ -18,6 +18,14 @@
 
 ​					--- 特立独行的猫
 
+### 2022
+
+[1. 罗翔 - 法治的细节](https://github.com/Omooo/WeChatReading/blob/master/2022/%E6%B3%95%E6%B2%BB%E7%9A%84%E7%BB%86%E8%8A%82.md)
+
+### 2020
+
+[1. 卡西 - 你有多自律，就有多自由](https://github.com/Omooo/WeChatReading/blob/master/2020/%E4%BD%A0%E6%9C%89%E5%A4%9A%E8%87%AA%E5%BE%8B%EF%BC%8C%E5%B0%B1%E6%9C%89%E5%A4%9A%E8%87%AA%E7%94%B1.md)
+
 ### 2019
 
 [1. 初小轨 - 自律的人生不孤独](https://github.com/Omooo/WeChatReading/blob/master/2019/%E8%87%AA%E5%BE%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E4%B8%8D%E5%AD%A4%E7%8B%AC.md)
@@ -41,6 +49,3 @@
 [10. 我不过低配的人生](https://github.com/Omooo/WeChatReading/blob/master/2019/%E6%88%91%E4%B8%8D%E8%BF%87%E4%BD%8E%E9%85%8D%E7%9A%84%E4%BA%BA%E7%94%9F.md)
 
 [11. 非暴力沟通](https://github.com/Omooo/WeChatReading/blob/master/2019/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A.md)
-
-### 2020
-
