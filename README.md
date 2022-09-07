@@ -22,6 +22,8 @@
 
 [1. 罗翔 - 法治的细节](https://github.com/Omooo/WeChatReading/blob/master/2022/%E6%B3%95%E6%B2%BB%E7%9A%84%E7%BB%86%E8%8A%82.md)
 
+[2. 张宏杰 - 曾国藩传](https://github.com/Omooo/WeChatReading/blob/master/2022/%E6%9B%BE%E5%9B%BD%E8%97%A9%E4%BC%A0.md)
+
 ### 2020
 
 [1. 卡西 - 你有多自律，就有多自由](https://github.com/Omooo/WeChatReading/blob/master/2020/%E4%BD%A0%E6%9C%89%E5%A4%9A%E8%87%AA%E5%BE%8B%EF%BC%8C%E5%B0%B1%E6%9C%89%E5%A4%9A%E8%87%AA%E7%94%B1.md)
